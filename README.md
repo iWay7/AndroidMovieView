@@ -27,7 +27,7 @@ app:repeated 配置是否循环播放
 app:scaleType 配置缩放模式
 ```
 
-##### 设定播放流
+##### 设定播放流：
 ```
 try {
     AssetManager assetManager = getAssets();
